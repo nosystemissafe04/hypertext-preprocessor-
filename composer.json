@@ -1,0 +1,13 @@
+{
+    "name": "mohammad/php",
+    "require-dev": {
+        "mailgun/mailgun-php": "^3.5",
+        "nyholm/psr7": "^1.8"
+    },
+    "require": {},
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true
+        }
+    }
+}
